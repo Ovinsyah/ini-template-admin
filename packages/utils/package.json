@@ -1,0 +1,15 @@
+{
+  "name": "@ini-admin/utils",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "styled-components": "^5.2.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node-sass": "^4.11.1",
+    "node-sass": "^4.13.1"
+  }
+}

@@ -1,0 +1,1 @@
+export { default as ViewDashboard } from './src/dashboard';
