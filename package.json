@@ -23,7 +23,7 @@
     "@ini-admin/views": "^0",
     "@ini-admin/utils": "^0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.20",
